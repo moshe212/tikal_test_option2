@@ -125,35 +125,35 @@ body {
   justify-content: center;
 }
 
-.bar-graph-two .bar-one .bar {
+.bar-graph-two .bar-0 .bar {
   background-color: #64b2d1;
   -webkit-animation: show-bar-one-vertical 1.2s 0.1s forwards;
   -moz-animation: show-bar-one-vertical 1.2s 0.1s forwards;
   animation: show-bar-one-vertical 1.2s 0.1s forwards;
 }
 
-.bar-graph-two .bar-two .bar {
+.bar-graph-two .bar-1 .bar {
   background-color: #5292ac;
   -webkit-animation: show-bar-two-vertical 1.2s 0.2s forwards;
   -moz-animation: show-bar-two-vertical 1.2s 0.2s forwards;
   animation: show-bar-two-vertical 1.2s 0.2s forwards;
 }
 
-.bar-graph-two .bar-three .bar {
+.bar-graph-two .bar-2 .bar {
   background-color: #407286;
   -webkit-animation: show-bar-three-vertical 1.2s 0.3s forwards;
   -moz-animation: show-bar-three-vertical 1.2s 0.3s forwards;
   animation: show-bar-three-vertical 1.2s 0.3s forwards;
 }
 
-.bar-graph-two .bar-four .bar {
+.bar-graph-two .bar-3 .bar {
   background-color: #2e515f;
   -webkit-animation: show-bar-four-vertical 1.2s 0.4s forwards;
   -moz-animation: show-bar-four-vertical 1.2s 0.4s forwards;
   animation: show-bar-four-vertical 1.2s 0.4s forwards;
 }
 
-.bar-graph-two .bar-five .bar {
+.bar-graph-two .bar-4 .bar {
   background-color: #113c4d;
   -webkit-animation: show-bar-five-vertical 1.2s 0.4s forwards;
   -moz-animation: show-bar-five-vertical 1.2s 0.4s forwards;
